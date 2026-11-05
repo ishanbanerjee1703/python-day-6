@@ -16,4 +16,5 @@ with open("lyrics.txt", "r") as file:
     print("The Total Lines: ", line_counter)
     print("The total EMPTY lines: ", empty_line_counter)
     print(" The total section labels: ", section_label_counter)
+
     
